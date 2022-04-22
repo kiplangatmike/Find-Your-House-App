@@ -68,7 +68,7 @@ def main():
     # if the user has an account, a function that lets him log into his account is called
     print("WELCOME TO FIND YOUR HOUSE\nThank you for choosing our platform to find your home")
     print("Are you a STUDENT or an AGENT?\n")
-    print("Type 1 if you are an AGENT\nType 2 if you are a STUDENT")
+    print("Type 1 if you are an AGENT\nType 2 if you are a STUDENT ")
     while True:
         user_input = input("ENTER:")
         # the if statements below is to direct the operation according to what the user wants to do
